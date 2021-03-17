@@ -1,5 +1,14 @@
 # Arduino Tooling-related RFCs
 
+[![Spell Check status](https://github.com/arduino/tooling-rfcs/actions/workflows/spell-check.yml/badge.svg)](https://github.com/arduino/tooling-rfcs/actions/workflows/spell-check.yml)
+[![Check General Formatting status](https://github.com/arduino/tooling-rfcs/actions/workflows/check-general-formatting.yml/badge.svg)](https://github.com/arduino/tooling-rfcs/actions/workflows/check-general-formatting.yml)
+[![Check Prettier Formatting status](https://github.com/arduino/tooling-rfcs/actions/workflows/check-prettier-formatting.yml/badge.svg)](https://github.com/arduino/tooling-rfcs/actions/workflows/check-prettier-formatting.yml)
+[![Check Markdown status](https://github.com/arduino/tooling-rfcs/actions/workflows/check-markdown.yml/badge.svg)](https://github.com/arduino/tooling-rfcs/actions/workflows/check-markdown.yml)
+[![Check ToC status](https://github.com/arduino/tooling-rfcs/actions/workflows/check-toc.yml/badge.svg)](https://github.com/arduino/tooling-rfcs/actions/workflows/check-toc.yml)
+[![Check YAML status](https://github.com/arduino/tooling-rfcs/actions/workflows/check-yaml.yml/badge.svg)](https://github.com/arduino/tooling-rfcs/actions/workflows/check-yaml.yml)
+[![Check Workflows status](https://github.com/arduino/tooling-rfcs/actions/workflows/check-workflows.yml/badge.svg)](https://github.com/arduino/tooling-rfcs/actions/workflows/check-workflows.yml)
+[![Check License status](https://github.com/arduino/tooling-rfcs/actions/workflows/check-license.yml/badge.svg)](https://github.com/arduino/tooling-rfcs/actions/workflows/check-license.yml)
+
 Most changes to Arduino tooling projects can be done simply by submitting a pull request for the proposed change and passing through the standard PR review process.
 
 In the case of proposal for substantial changes, it may be beneficial to first document, discuss with stakeholders, and get formal approval before starting on the associated work. The "RFC" (request for comments) process is used for this purpose.
